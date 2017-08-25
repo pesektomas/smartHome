@@ -3,7 +3,7 @@ Part of smart house build on arduino
 
 ## TODO
 
-- [ ] Control of lights
+- [x] Control of lights
 - [ ] Fire sensor
 - [ ] State circuit breakers
 - [ ] Thermometers (children rooms, refrigerator, freezer, panty)
